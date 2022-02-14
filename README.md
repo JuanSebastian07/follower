@@ -1,2 +1,2 @@
 # follower
-Aqui hacemos un script para seguir a muchas cuentas en instagram con selenium
+Aqui hacemos un script para seguir a muchas cuentas en instagram con selenium. Teniendo muchas cosas en cuenta como cuando instagram deshabilita el boton de seguir entonces en ese momento nuestro script tomara un descanso de 2 minutos, y tambien hacemos un time.sleep() de tiempo random entres 1s y 3s esto para tratar de no parecer un bot y tambien tomara descanso cada 20 cuentas seguidas  
